@@ -1,2 +1,2 @@
 # SolidityP
-To learn and practice Solidity Programming
+# To learn and practice Solidity Programming
